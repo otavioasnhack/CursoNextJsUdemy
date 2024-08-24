@@ -1,0 +1,15 @@
+#integracao2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 1em;
+}
+
+.vermelha {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
