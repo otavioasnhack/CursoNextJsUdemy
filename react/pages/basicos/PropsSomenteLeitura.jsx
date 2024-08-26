@@ -1,7 +1,9 @@
-export default function PropsSomenteLeitura() {
+import SomaUm from "@/components/SomaUm";
+
+export default function propsSomenteLeitura() {
     return (
         <div>
-            <h1>teste</h1>
+            <SomaUm numero = {99} />
         </div>
     )
 }
